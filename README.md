@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1009402009.svg)](https://doi.org/10.5281/zenodo.15751877)
 
-This repository contains Julia notebooks.
+This repository contains Julia notebooks
 
 To generate Fig. 1 in the main text: use "Kin_Eqn_Simulation.ipynb"
 
