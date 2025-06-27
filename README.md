@@ -5,5 +5,7 @@
 This repository contains Julia notebooks.
 
 To generate Fig. 1 in the main text: use "Kin_Eqn_Simulation.ipynb"
+
 To generate Fig. 2 in the main text and Fig. 1 in the supplementary material: use "Lin_Analysis_Multiple_Phonons.ipynb"
+
 To generate Fig. 2 in the supplementary material: use "Omega_Critical_Plot.ipynb"
