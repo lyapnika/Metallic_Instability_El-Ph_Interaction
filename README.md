@@ -4,7 +4,7 @@
 
 ## The version of Julia needed: 1.10.3
 ## To add Julia to Jupyter Notebook, add the package IJulia. 
-## The packages needed are listed in the very first line of each Jupyter notebook
+## Additional packages needed to run each notebook are listed in the very first line of that notebook
 
 This repository contains Julia notebooks
 
